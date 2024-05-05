@@ -1,0 +1,227 @@
+.competition_cards_headcard__P-k14 {
+  color: #fff;
+  font-size: 33px;
+  font-weight: 600;
+}
+.competition_cards_flexbox__Iz0j_,
+.competition_cards_headcard__P-k14 {
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-justify-content: center;
+  -moz-box-pack: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+  flex-direction: row;
+  text-align: center;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  align-items: center;
+}
+.competition_cards_flexbox__Iz0j_ {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.competition_cards_card__ZQ0yt {
+  width: 35vw;
+  height: 380px;
+  border: 1px solid grey;
+  border-radius: 15px;
+  margin: 30px;
+  padding: 20px;
+  -webkit-transition: 0.15s;
+  -moz-transition: 0.15s;
+  transition: 0.15s;
+}
+.competition_cards_info__3v7nc {
+  color: grey;
+  font-size: 18px;
+  word-spacing: 3px;
+  margin-top: 15px;
+  cursor: default;
+  text-align: center;
+}
+.competition_cards_card__ZQ0yt:hover {
+  border-color: #087edf;
+}
+.competition_cards_more__3ZFh3 {
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  transition: 0.3s;
+}
+.competition_cards_more__3ZFh3:hover {
+  background: #121fcf;
+  background: -webkit-linear-gradient(90deg, #121fcf 0, #26e2ff);
+  background: -moz-linear-gradient(to right, #121fcf 0, #26e2ff 100%);
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(#121fcf),
+    to(#26e2ff)
+  );
+  background: -webkit-linear-gradient(left, #121fcf, #26e2ff);
+  background: -moz-linear-gradient(left, #121fcf 0, #26e2ff 100%);
+  background: linear-gradient(90deg, #121fcf 0, #26e2ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.competition_cards_headimage__19WlV {
+  margin-right: 15px;
+}
+.competition_cards_Eventsname__2pwjZ {
+  font-size: 45px;
+  color: #fff;
+  font-weight: 700;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  align-items: center;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #087edf;
+  -moz-text-decoration-color: #087edf;
+  text-decoration-color: #087edf;
+  text-underline-offset: 0.3em;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+@media screen and (max-width: 900px) {
+  .competition_cards_section__hd2in {
+    width: 100vh;
+  }
+  .competition_cards_card__ZQ0yt {
+    width: 90vw;
+    height: auto;
+  }
+  .competition_cards_info__3v7nc {
+    font-size: 2vh;
+    word-spacing: 0.1em;
+    font-weight: 550;
+    line-height: 4vh;
+    text-align: center;
+  }
+  .competition_cards_more__3ZFh3 {
+    font-size: 4vh;
+  }
+  .competition_cards_headcard__P-k14 {
+    font-size: 5vh;
+    margin-bottom: 30px;
+  }
+  .competition_cards_Eventsname__2pwjZ {
+    padding: 1 10%;
+    width: 100%;
+    text-align: center;
+    font-size: 7vh;
+  }
+  .competition_cards_flexbox__Iz0j_ {
+    width: 100vw;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    justify-content: center;
+  }
+}
+@media screen and (min-width: 1800px) {
+  .competition_cards_card__ZQ0yt {
+    width: 15vw;
+  }
+}
+@media screen and (max-width: 480px) {
+  .competition_cards_Eventsname__2pwjZ {
+    font-size: 45px;
+  }
+  .competition_cards_more__3ZFh3 {
+    font-size: 25px;
+  }
+}
+@media screen and (max-width: 1500px) {
+  .competition_cards_card__ZQ0yt {
+    height: auto;
+  }
+}
+.competitions_container__3PXDK {
+  min-height: 250vh;
+}
+.competitions_headpageblur__2x9sy {
+  height: 100vh;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -moz-box-pack: center;
+  justify-content: center;
+  background-color: #000;
+  opacity: 0.8;
+  background: url(../fonts/waves.c7b23e732def962d571fd5984f7e98d7.svg);
+  background-size: cover;
+}
+.competitions_header__ojAUj {
+  font-size: 85px;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+.competitions_header__ojAUj,
+.competitions_subheader__1LmYe {
+  color: #fff;
+  width: auto;
+  height: auto;
+  padding: 10px;
+  border-radius: 15px;
+  -webkit-animation: competitions_fade__2yr-u 0.35s linear;
+  animation: competitions_fade__2yr-u 0.35s linear;
+}
+.competitions_subheader__1LmYe {
+  font-size: 30px;
+  background: rgb(0, 0, 0, 0.2);
+  -webkit-backdrop-filter: blur(30px);
+  backdrop-filter: blur(30px);
+}
+@-webkit-keyframes competitions_fade__2yr-u {
+  0% {
+    opacity: 0;
+  }
+  15% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes competitions_fade__2yr-u {
+  0% {
+    opacity: 0;
+  }
+  15% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@media screen and (max-width: 600px) {
+  .competitions_header__ojAUj {
+    -webkit-transform: scale(0.4);
+    -moz-transform: scale(0.4);
+    transform: scale(0.4);
+  }
+  .competitions_subheader__1LmYe {
+    -webkit-transform: scale(0.7);
+    -moz-transform: scale(0.7);
+    transform: scale(0.7);
+  }
+}

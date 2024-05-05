@@ -1,0 +1,270 @@
+.aboutuspara_box__2jIt0 {
+  border-radius: 15px;
+  color: #fff;
+  width: 81%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 60px;
+  padding: 20px 25px;
+  z-index: 0;
+}
+.aboutuspara_head__3E6PV {
+  font-size: 45px;
+  font-weight: 700;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  margin: 0 auto 20px;
+  text-align: center;
+  border-bottom: 2px solid #087edf;
+}
+.aboutuspara_info__3P2Y2 {
+  color: grey;
+  font-size: 19px;
+  word-spacing: 3px;
+  text-align: center;
+}
+@media screen and (max-width: 1400px) {
+  .aboutuspara_head__3E6PV {
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+  .aboutuspara_info__3P2Y2 {
+    -webkit-transform: scale(0.95);
+    -moz-transform: scale(0.95);
+    transform: scale(0.95);
+  }
+}
+@media screen and (max-width: 340px) {
+  .aboutuspara_box__2jIt0 {
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+}
+@media screen and (max-width: 480px) {
+  .aboutuspara_box__2jIt0 {
+    width: 90%;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    justify-content: center;
+  }
+  .aboutuspara_info__3P2Y2 {
+    margin-top: 50px;
+    word-spacing: 0;
+    font-weight: 550;
+    line-height: normal;
+  }
+}
+@media screen and (max-width: 1310px) and (min-width: 1024px) {
+  .aboutuspara_head__3E6PV {
+    font-size: 45px;
+  }
+}
+@media screen and (max-width: 1450px) and (min-width: 1310px) {
+  .aboutuspara_head__3E6PV {
+    font-size: 45px;
+  }
+}
+@media screen and (min-width: 1800px) {
+  .aboutuspara_head__3E6PV {
+    font-size: 68px;
+  }
+  .aboutuspara_info__3P2Y2 {
+    font-size: 29px;
+    word-spacing: 2px;
+    line-height: 40px;
+  }
+}
+.aboutuscards_card__25w7r {
+  width: 350px;
+  height: 500px;
+  border: 1px solid grey;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 20px;
+  -webkit-transition: 0.15s;
+  -moz-transition: 0.15s;
+  transition: 0.15s;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -moz-box-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(0.85);
+  -moz-transform: scale(0.85);
+  transform: scale(0.85);
+  -webkit-box-shadow: 5px #0b406b;
+  box-shadow: 5px #0b406b;
+}
+.aboutuscards_card__25w7r:hover {
+  border-color: #087edf;
+}
+.aboutuscards_name__2Tfh0 {
+  color: #fff;
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.aboutuscards_email__3K6oc {
+  color: grey;
+  font-size: 15px;
+}
+.aboutuscards_teamcards__27Y_3 {
+  min-width: 100%;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-flex-direction: row;
+  -moz-box-orient: horizontal;
+  -moz-box-direction: normal;
+  flex-direction: row;
+  -webkit-justify-content: center;
+  -moz-box-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.aboutuscards_teamcards__27Y_3,
+.aboutuscards_teamheader__1aU3f {
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  align-items: center;
+}
+.aboutuscards_teamheader__1aU3f {
+  font-size: 45px;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: underline;
+  -webkit-text-decoration-color: #087edf;
+  -moz-text-decoration-color: #087edf;
+  text-decoration-color: #087edf;
+  text-underline-offset: 0.3em;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.aboutuscards_email__3K6oc {
+  margin-bottom: 1vh;
+}
+.aboutuscards_position__2Z3jT {
+  margin-bottom: 3vh;
+  margin-top: 2vh;
+  color: grey;
+  font-size: 23px;
+  text-align: center;
+}
+.aboutuscards_positionlong__1aMu9 {
+  margin-bottom: 2vh;
+  color: grey;
+  font-size: 23px;
+  text-align: center;
+}
+.aboutuscards_cardTech__2Fj0_ {
+  width: 300px;
+  height: auto;
+  border: 1px solid grey;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 20px;
+  -webkit-transition: 0.15s;
+  -moz-transition: 0.15s;
+  transition: 0.15s;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -moz-box-pack: center;
+  justify-content: center;
+  -webkit-transform: scale(0.85);
+  -moz-transform: scale(0.85);
+  transform: scale(0.85);
+}
+.aboutuscards_cardTech__2Fj0_:hover {
+  border-color: #087edf;
+}
+.aboutuscards_nameTech__TprWO {
+  color: #fff;
+  font-size: 30px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.aboutuscards_emailTech__2IhoQ {
+  color: grey;
+  font-size: 17px;
+}
+@media screen and (max-width: 480px) {
+  .aboutuscards_card__25w7r {
+    width: 90vw;
+    height: auto;
+    margin-bottom: -60px;
+  }
+  .aboutuscards_cardTech__2Fj0_ {
+    width: 90vw;
+    height: auto;
+    margin-bottom: -30px;
+  }
+  .aboutuscards_teamcards__27Y_3 {
+    margin-bottom: 20vh;
+  }
+}
+@media screen and (max-width: 800px) {
+  .aboutuscards_card__25w7r {
+    -webkit-transform: scale(0.7);
+    -moz-transform: scale(0.7);
+    transform: scale(0.7);
+  }
+}
+.aboutuscards_mail__3mzY- {
+  position: relative;
+}
+.aboutuscards_mail__3mzY-:before {
+  content: "";
+  height: 1px;
+  background: #087edf;
+  position: absolute;
+  bottom: -3px;
+  width: 0;
+  right: 0;
+  -webkit-transition: 0.5s ease-in-out;
+  -moz-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
+.aboutuscards_mail__3mzY-:hover:before {
+  left: 0;
+  width: 100%;
+}
+@media screen and (max-width: 1400px) {
+  .aboutuscards_card__25w7r {
+    margin-top: 5px;
+  }
+  .aboutuscards_card__25w7r,
+  .aboutuscards_teamheader__1aU3f {
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+}
+.aboutus_container__BPXr2 {
+  padding-top: 10vh;
+  background: -webkit-radial-gradient(top, 65% 12%, #0b406b, #000);
+}
